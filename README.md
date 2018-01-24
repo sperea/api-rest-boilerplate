@@ -6,3 +6,5 @@ Api Rest developed on Django Rest Framework. This API boilerplate has the follow
 
 * Token - based authentication
 
+* Pruebas unitarias: coverage run manage.py test general -v 2
+
